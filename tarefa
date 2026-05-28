@@ -1,0 +1,3 @@
+let temingresso = true
+let maiorIdade = true
+console.log('pode entrar na festa?', temingresso && maiorIdade)
